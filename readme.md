@@ -1,4 +1,4 @@
-# SolidWorks MCP Server
+# SolidWorks MCP Server (under development)
 
 A Model Context Protocol (MCP) server that provides AI assistants with the ability to interact with SolidWorks CAD software. This server enables AI assistants like Claude to open SolidWorks files, retrieve model properties, create new parts, and export documents to PDF.
 
